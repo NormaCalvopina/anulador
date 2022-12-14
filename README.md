@@ -1,6 +1,9 @@
 # anulador
 
-Donde:
+![image](https://user-images.githubusercontent.com/105259381/207713733-689ffeac-2007-4a20-9400-118d31ec7b55.png)
+
+
+Dónde:
 Siendo adecuado reescribir L(y)=R(x). Aquí L representa el operador diferencia, lineal de orden n
 Definición Operador Anulador: Es un operador que vuelve 0 a la función cuando este es aplicado a una función g(x)
 Siendo:
