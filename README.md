@@ -30,3 +30,4 @@ ANULADOR DE UNA SUMA DE FUNCIONES
 
 ![image](https://user-images.githubusercontent.com/105259381/207709329-86e03804-bd1e-4e78-8ba6-931b46fbf070.png)
 
+![image](https://user-images.githubusercontent.com/105259381/207717496-425e2690-1914-4c33-a4b8-420d3b2dd714.png)
