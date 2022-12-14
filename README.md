@@ -1,6 +1,16 @@
 # anulador
+![image](https://user-images.githubusercontent.com/105259381/207716388-2375dc1b-9b9a-4125-9f3b-e3428f524ca5.png)
 
-![image](https://user-images.githubusercontent.com/105259381/207713733-689ffeac-2007-4a20-9400-118d31ec7b55.png)
+![imagen](https://user-images.githubusercontent.com/105259381/207716241-40b880f8-776c-40bd-8ffd-27558b6be100.png)
+
+donde
+![image](https://user-images.githubusercontent.com/105259381/207716336-338ee38c-0efd-4e94-9790-d985c086975b.png)
+
+Cuando es adecuado, la ecuación (1) también se escribe como
+L(y)  g(x), donde L denota el operador diferencial o polinomial, lineal de n-ésimo orde
+
+![image](https://user-images.githubusercontent.com/105259381/207716505-a221761b-6d43-4a43-8cdc-a909c0725323.png)
+
 
 
 Dónde:
